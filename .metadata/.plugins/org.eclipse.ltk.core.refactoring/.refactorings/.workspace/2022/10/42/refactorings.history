@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Day 5- oops-(Abstraction)Has-A-Relation (Secondary reference)&apos; to &apos;Day 5- Oop&apos;s-(Abstraction)Has-A-Relation (Secondary reference)&apos;" description="Rename resource &apos;Day 5- oops-(Abstraction)Has-A-Relation (Secondary reference)&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Day 5- oops-(Abstraction)Has-A-Relation (Secondary reference)" name="Day 5- Oop&apos;s-(Abstraction)Has-A-Relation (Secondary reference)" stamp="1665752079472" updateReferences="true"/>
+</session>

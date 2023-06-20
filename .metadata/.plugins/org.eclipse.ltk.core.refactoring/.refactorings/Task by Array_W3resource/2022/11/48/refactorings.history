@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Que_1.Shorting.java&apos; to &apos;Sorting.java&apos;&#x0D;&#x0A;- Original project: &apos;Task by Array_W3resource&apos;&#x0D;&#x0A;- Original element: &apos;Que_1.Shorting.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Que_1.Sorting.java&apos;" description="Rename compilation unit &apos;Shorting.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;Que_1{Shorting.java" name="Sorting.java" references="false" stamp="1669195217386" version="1.0"/>
+</session>

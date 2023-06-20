@@ -1,0 +1,7 @@
+JAVA
+c
+B
+true
+99
+100
+PYTHON

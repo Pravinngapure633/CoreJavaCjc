@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;while_Loop.B&apos; to &apos;B_Prime_no&apos;&#x0D;&#x0A;- Original project: &apos;Day 6-Loop&apos;s&apos;&#x0D;&#x0A;- Original element: &apos;while_Loop.B&apos;&#x0D;&#x0A;- Renamed element: &apos;while_Loop.B_Prime_no&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;B&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;while_Loop{B.java[B" matchStrategy="1" name="B_Prime_no" qualified="false" references="true" similarDeclarations="false" stamp="1665313046645" textual="false" version="1.0"/>
+</session>

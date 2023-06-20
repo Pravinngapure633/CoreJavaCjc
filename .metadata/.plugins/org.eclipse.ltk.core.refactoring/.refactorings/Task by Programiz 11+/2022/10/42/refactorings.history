@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Programiz.K_Reverse_count&apos; to &apos;K_Reverse_count_22&apos;&#x0D;&#x0A;- Original project: &apos;Task by Programiz 11+&apos;&#x0D;&#x0A;- Original element: &apos;Programiz.K_Reverse_count&apos;&#x0D;&#x0A;- Renamed element: &apos;Programiz.K_Reverse_count_22&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;K_Reverse_count&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Programiz{K_Reverse_count.java[K_Reverse_count" matchStrategy="1" name="K_Reverse_count_22" qualified="false" references="true" similarDeclarations="false" stamp="1665387435180" textual="false" version="1.0"/>
+</session>

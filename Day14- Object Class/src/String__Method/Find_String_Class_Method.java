@@ -1,0 +1,21 @@
+package String__Method;
+
+import java.lang.reflect.Method;
+
+public class Find_String_Class_Method {
+	
+	public static void main(String[] args) throws ClassNotFoundException {
+		
+		Class c=Class.forName("java.lang.String"); 
+		
+		Method [] method=c.getDeclaredMethods();
+		int count=0;
+		for(int i=0;i<method.length;i++)
+		{
+			Method method1=method[i];
+			System.out.println(method1);
+			count++;
+		}
+		System.out.println("Total method is: "+count);
+	}
+}

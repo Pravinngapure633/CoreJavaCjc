@@ -1,0 +1,16 @@
+
+‰
+java:S1488"XImmediately throw this expression instead of assigning it to the temporary variable "a".(Á‰Æ³ûÿÿÿÿHŠRMINORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ü°åÏHRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âº“¨øÿÿÿÿHRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Å…³¼HRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ıÂìåúÿÿÿÿHRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¨ÏñôûÿÿÿÿH‘RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(éÆÏH’RMAJORZ
+CODE_SMELL
